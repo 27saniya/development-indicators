@@ -13,7 +13,7 @@ By analyzing these key development indicators, the patterns and trends that may 
 
 ## Tools Used
 
-- Python (Pandas): Data Wrangling (https://github.com/27saniya/development-indicators/blob/main/Developmental_Indicator%20.ipynb)
+- Python (Pandas): Data Wrangling → (https://github.com/27saniya/development-indicators/blob/main/Developmental_Indicator%20.ipynb)
 - Seaborn (Python) and Tableau: Data Visualization 
 
 
